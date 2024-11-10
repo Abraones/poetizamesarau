@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "791026056113",
+    "project_id": "poetizame-sarau",
+    "storage_bucket": "poetizame-sarau.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:791026056113:android:e7faba86c5559e85849b90",
+        "android_client_info": {
+          "package_name": "com.poetizamesarau"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2oYAUi75JKXBUg9Jz1g8V0nrWtp2S6og"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
